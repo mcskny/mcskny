@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Mobile app development<br>🌱 I’m currently learning Flutter Dart, Php and JavaScript<br>💬 Ask me about Blender<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
