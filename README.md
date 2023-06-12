@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcskny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=mamish__"/></a>](https://gtce.itsvg.in/api?username=YOUR_USERNAME&theme=transparent)
+[<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=mamish__"/></a>](https://gtce.itsvg.in/api?username=mamish__&theme=transparent)
 ---
 [![](https://visitcount.itsvg.in/api?id=mcskny&icon=8&color=12)](https://visitcount.itsvg.in)
 
